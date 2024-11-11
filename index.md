@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="styles.css">
+
 # Budgetum Support
 
 Welcome to the support page for **Budgetum**!

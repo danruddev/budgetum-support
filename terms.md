@@ -1,6 +1,6 @@
 # Terms of Use for Budgetum
 
-**Last Updated:** November 10, 2024
+**Last Updated:** November 16, 2024
 
 ## Introduction
 
@@ -24,14 +24,6 @@ By using Budgetum, you agree to:
 ## Data and Privacy
 
 Budgetum does not collect or store any personal data on external servers. All financial and user data entered into the App is stored locally on your device. Please review our [Privacy Policy](privacy-policy.md) for more details on data handling practices.
-
-## Advertising
-
-As a free app, Budgetum includes advertisements served through Google AdMob. These ads are non-personalized and are based on general information rather than personal data. If desired, you may remove ads through an in-app purchase.
-
-## In-App Purchases
-
-Budgetum offers in-app purchases, such as the option to remove ads. These purchases are managed through the Apple App Store or Google Play Store. All transactions are subject to the terms and policies of the respective store. Budgetum does not handle or store any payment details.
 
 ## Disclaimer of Warranties
 

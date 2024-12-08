@@ -1,6 +1,6 @@
 # Privacy Policy for Budgetum
 
-**Last Updated:** November 14, 2024
+**Last Updated:** December 8, 2024
 
 ## Introduction
 
@@ -12,9 +12,17 @@ Welcome to Budgetum. We are committed to protecting your privacy and ensuring a 
 - **Budget and Financial Information:** Any information you enter, such as income, expenses, and budgeting categories, is stored locally on your device. We do not have access to or collect any of this data.
 
 ### Automatically Collected Data
-Budgetum does not collect any automatically generated data or analytics.
+Budgetum uses Firebase Analytics to collect **anonymous usage statistics**. This data helps us improve app functionality and understand how users interact with the app.
+
+Information collected may include:
+- General device information (e.g., device model, OS version)
+- App usage data (e.g., screens viewed, interactions)
+
+**No personally identifiable information (PII)**, such as names, email addresses, or financial data, is collected.
 
 ## How We Use Your Data
+- Improve app functionality by understanding usage trends
+- Identify and resolve potential issues
 
 ### Core Functionality
 - **Budgeting Features:** All budget and financial data is stored locally on your device, enabling budget tracking and personalized app settings.
@@ -27,9 +35,9 @@ All financial and budget-related information is stored locally on your device an
 ### Cloud Storage
 **Budgetum does not use cloud storage or external servers for any personal data.** You retain full control over any backup files you create.
 
-## Data Security
+### Analytics Data
+Anonymous usage data is processed and stored securely by Firebase Analytics, a service provided by Google. For more information, please see the [Firebase Privacy Policy](https://firebase.google.com/support/privacy).
 
-To help protect your data, we recommend securing your device with a passcode or biometric authentication. Budgetum stores all budgeting information directly on your device, ensuring data privacy and security under your control.
 
 ## User Rights and Choices
 

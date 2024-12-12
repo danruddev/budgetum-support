@@ -12,10 +12,6 @@ If you have questions or need assistance, please reach out to us:
 
 ## Frequently Asked Questions
 
-### How do I remove ads?
-
-To remove ads, go to the Settings section in Budgetum and select “Remove Ads.” Follow the prompts to complete the in-app purchase.
-
 ### How do I back up my data?
 
 Backing up data can be done from the app’s **Settings > Backup** page.

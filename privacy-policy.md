@@ -1,6 +1,6 @@
 # Privacy Policy for Budgetum
 
-**Last Updated:** January 26, 2025
+**Last Updated:** October 30, 2025
 
 ## Introduction
 
@@ -24,12 +24,6 @@ Budgetum uses the following services to improve app functionality and user exper
    - Technical information about app crashes
    - Device state at the time of crash
    - Basic device information
-   
-3. **Google AdMob** for advertising:
-   - Device advertising identifier
-   - General device information
-   - IP address
-   - App interaction with ads
 
 **No personally identifiable information (PII)**, such as names, email addresses, or financial data, is collected through these services.
 
@@ -39,7 +33,6 @@ Budgetum uses the following services to improve app functionality and user exper
 - **Budgeting Features:** All budget and financial data is stored locally on your device
 - **Crash Reporting:** To identify and fix technical issues
 - **Analytics:** To improve app functionality by understanding usage patterns
-- **Advertising:** To display relevant advertisements and maintain a free version of the app
 
 ## Data Storage and Security
 
@@ -49,19 +42,6 @@ All financial and budget-related information is stored locally on your device an
 ### Analytics and Crash Data
 Anonymous usage data and crash reports are processed and stored securely by Firebase services. For more information, please see:
 - [Firebase Privacy Policy](https://firebase.google.com/support/privacy)
-- [Google AdMob Privacy Policy](https://policies.google.com/privacy)
-
-## Advertising
-
-Budgetum includes advertising through Google AdMob in its free version. Users can remove ads through a one-time in-app purchase. The advertising experience includes:
-- Non-personalized banner advertisements
-- No personalized ad targeting
-- Ads are shown based on general factors like device type and region, not personal data
-
-We've chosen to use only non-personalized ads to better protect user privacy. This means:
-- We don't use device advertising identifiers for ad targeting
-- No personal data is shared with advertisers
-- Ads are context-based rather than behavior-based
 
 ## User Rights and Choices
 
@@ -69,8 +49,7 @@ As a Budgetum user, you have several rights and choices:
 
 - **Export Data:** Create local backup files of your data
 - **Delete Data:** Uninstall the app to remove all local data
-- **Ad Preferences:** Control personalized advertising through device settings
-- **Remove Ads:** Purchase the ad-free version of the app
+- **Budgetum PRO:** Purchase the PRO version of the app
 
 ## Children's Privacy
 
@@ -100,5 +79,4 @@ For questions or concerns about this Privacy Policy, please contact:
 Budgetum complies with:
 - Apple App Store privacy requirements
 - Google Play Store privacy requirements
-- AdMob policy requirements
 - Firebase terms of service
